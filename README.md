@@ -1,4 +1,6 @@
-# machine_learning_course
+# machine_learning_course:
+
+What is Machine Learning: Machine learning is a subset of artificial intelligence (AI) that focuses on developing algorithms and models that enable computers to learn and make predictions or decisions based on data, without being explicitly programmed. In essence, machine learning algorithms learn from historical data and use that knowledge to make informed decisions or predictions about new, unseen data.
 
 # Introduction to Machine Learning:
 
