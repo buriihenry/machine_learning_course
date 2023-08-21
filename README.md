@@ -2,7 +2,7 @@
 
 # Introduction to Machine Learning:
 
-If you're looking to get started with machine learning, an introductory course is a good place to begin. Here are a few key topics that such this course will cover:
+If you're looking to get started with machine learning, an introductory course is a good place to begin. Here are a few key topics that this course will cover:
 
 1. Fundamentals of Machine Learning: This includes understanding what machine learning is, its types (supervised, unsupervised, reinforcement learning, etc.), and the basic concepts like training, testing, and evaluation.
 
